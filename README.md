@@ -35,6 +35,8 @@ Simulated using a fixed-step Runge-Kutta solver (`ode4`, step size $\Delta t = 0
 | **Imbalance Reduction** | **80.0%** | Closed-loop convergence achieved[cite: 4] |
 | **Total Energy Dissipated** | **1.087 Wh** | Thermal budget for shunt heatsink sizing[cite: 4] |
 | **Fault Flag States** | **0 (No Fault)** | Compliant across entire operating envelope[cite: 1] |
+### Simscape / Simulink System Model
+![Simscape BMS Pack Architecture](figures/bms_pack_architecture.png)
 
 ![Simulation Dashboard](figures/bms_simulation_dashboard.png)
 
